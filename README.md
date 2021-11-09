@@ -1,0 +1,1 @@
+# lector_de_codigo_de_barra
